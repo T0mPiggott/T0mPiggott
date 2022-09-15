@@ -13,6 +13,7 @@ I am a modern day Indiana Jones :male_detective: and an aspiring programmer. Aft
 ### Hobbies and interesting facts:
 - :computer: computer games
 - :weight_lifting: Avid weightlifter
+- :european_castle: Heritage enthusiast
 - :male_detective: I have excavated over a dozen burial sites during my time as an archaeologist
 
 ### Currently learning: 
