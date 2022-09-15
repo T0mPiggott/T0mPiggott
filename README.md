@@ -8,7 +8,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a modern day Indiana Jones :male_detective: and an aspiring programmer. After learning the basics of Python through the use of ArcPy in my day job as a Heritage Consultant :earth_americas: I have begun the long and winding journey of furthering my Python skills through the use of open source projects. I am also trying my hand at HTML, CSS and JavaScript through the use of the Odin Project and Freecodeacademy. 
+I am a modern day Indiana Jones :male_detective: and an aspiring programmer. After learning the basics of Python through the use of ArcPy in my day job as a Heritage Consultant :earth_americas: I have begun the long and winding journey of furthering my Python skills through the use of open source projects while also trying my hand at HTML, CSS and JavaScript through the use of the Odin Project and Freecodeacademy. 
 
 ### Hobbies and interesting facts:
 - :computer: computer games
